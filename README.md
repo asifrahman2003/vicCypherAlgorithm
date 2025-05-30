@@ -46,12 +46,13 @@ heat is on
 ```
 ## Author
 
+```
 Asifur Rahman
 Computer Science, 
 University of Arizona
 📧 asifrahman@arizona.edu
 🌐 asifrahman.online
-
+```
 ## License
 
 This project is built for educational purposes only.
