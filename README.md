@@ -29,18 +29,21 @@ It transforms a message into an encrypted sequence of digits and embeds the agen
 ## 📥 Sample Input Files
 (for encryption)
 
+```
 85721
 470918
 Choose the representation that best supports the operations
 heat is on
 Run away!
+```
 
 (for decryption) 
+```
 470918
 Choose the representation that best supports the operations
 heat is on
 3532423085721239
-
+```
 ## Author
 
 Asifur Rahman
