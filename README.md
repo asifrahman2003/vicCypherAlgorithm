@@ -3,6 +3,7 @@
 This is a simplified implementation of the VIC cipher, a historical encryption method, completed at the University of Arizona. It includes both encryption and decryption tools using a reduced version of the original VIC algorithm. 
 
 ## Project Structure
+```
 ├── EncryptVIC.java           # Main encryption program
 ├── DecryptVIC.java           # Main decryption program
 ├── VICOperations.java        # Shared utility methods
@@ -13,8 +14,7 @@ This is a simplified implementation of the VIC cipher, a historical encryption m
 ├── manifest_encrypt.txt      # Manifest for encryption
 ├── manifest_decrypt.txt      # Manifest for decryption
 └── prog01.pdf                # Project description/specification
-
----
+```
 
 ## Algorithm Overview
 
